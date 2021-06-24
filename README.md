@@ -15,10 +15,10 @@
 
 
 ### Основни факти за веб-сајтот
-Наслов: „Димитар Јовановски“
-Темплејт: [Ziggy](https://www.free-css.com/free-css-templates/page244/ziggy)
-Фонт: font-family: "OracleSansVF", "OracleSansVFCyGr", - apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue ...
-Големина на фонт: 13px
+Наслов: „Димитар Јовановски“  
+Темплејт: Ziggy  
+Фонт: font-family: "OracleSansVF", "OracleSansVFCyGr", - apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue ...  
+Големина на фонт: 13px  
 Основни тематички нијанси:
 
 1. #7a7a7a
