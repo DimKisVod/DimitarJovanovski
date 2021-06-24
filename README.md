@@ -15,8 +15,6 @@
 
 
 ### Основни факти за веб-сајтот
-
-```
 Наслов: „Димитар Јовановски“
 Темплејт: [Ziggy](https://www.free-css.com/free-css-templates/page244/ziggy)
 Фонт: font-family: "OracleSansVF", "OracleSansVFCyGr", - apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue ...
@@ -26,7 +24,6 @@
 1. #7a7a7a
 2. #232323
 3. #ffffff
-```
 
 Бр. страници на сајтот: 1
 Бр. на искористени слики: 18
